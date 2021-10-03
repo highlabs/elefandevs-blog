@@ -24,3 +24,9 @@ export default {
   }
 }
 </script>
+
+<style lang="postcss" scoped>
+  article {
+    @apply prose;
+  }
+</style>
